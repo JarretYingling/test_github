@@ -3,3 +3,7 @@ body {
     list-style-position: inside;
     background-color: lightblue;
 }
+
+ol{
+    display: inline-block;
+}
